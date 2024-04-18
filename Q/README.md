@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Black & White (bw) - Q (8 Images)
+![Grid](grid.jpg)
 
 * [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-bw/master/Q/Images/Quentin%20Dupieux.jpg)

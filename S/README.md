@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - S (619 Images)
+# Kometa People Images - Black & White (bw) - S (621 Images)
 ![Grid](grid.jpg)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/S.%20S.%20Rajamouli.jpg)
@@ -41,6 +41,7 @@
 * [Sam Hazeldine](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Hazeldine.jpg)
 * [Sam Heughan](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Heughan.jpg)
 * [Sam Jaeger](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Jaeger.jpg)
+* [Sam Jaimes](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Jaimes.jpg)
 * [Sam Jay](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Jay.jpg)
 * [Sam Johnston](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Johnston.jpg)
 * [Sam Kinison](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sam%20Kinison.jpg)
@@ -328,6 +329,7 @@
 * [Shooter Jennings](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shooter%20Jennings.jpg)
 * [Shuko Murase](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shuko%20Murase.jpg)
 * [Shun Oguri](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shun%20Oguri.jpg)
+* [Shunsuke Sakuya](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shunsuke%20Sakuya.jpg)
 * [Shusuke Kaneko](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shusuke%20Kaneko.jpg)
 * [Shweta Basu Prasad](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Shweta%20Basu%20Prasad.jpg)
 * [Sian Brooke](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/S/Images/Sian%20Brooke.jpg)

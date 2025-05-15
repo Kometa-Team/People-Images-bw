@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - L (486 Images)
+# Kometa People Images - Black & White (bw) - L (487 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -35,6 +35,7 @@
 * [Langston Fishburne](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Langston%20Fishburne.jpg)
 * [Lara McDonnell](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lara%20McDonnell.jpg)
 * [Laraine Newman](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Laraine%20Newman.jpg)
+* [Larisa Oleynik](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Larisa%20Oleynik.jpg)
 * [Larisa Shepitko](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Larisa%20Shepitko.jpg)
 * [Larissa Andrade](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Larissa%20Andrade.jpg)
 * [Larry Blamire](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Larry%20Blamire.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - L (509 Images)
+# Kometa People Images - Black & White (bw) - L (510 Images)
 ![Grid](grid.jpg)
 
 * [L. Q. Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/L.%20Q.%20Jones.jpg)
@@ -22,6 +22,7 @@
 * [Lambert Wilson](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lambert%20Wilson.jpg)
 * [Lamberto Bava](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lamberto%20Bava.jpg)
 * [Lana Parrilla](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lana%20Parrilla.jpg)
+* [Lana Turner](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lana%20Turner.jpg)
 * [Lana Wachowski](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lana%20Wachowski.jpg)
 * [Lana Wood](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lana%20Wood.jpg)
 * [Lance A. Williams](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/L/Images/Lance%20A.%20Williams.jpg)

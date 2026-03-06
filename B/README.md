@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - B (574 Images)
+# Kometa People Images - Black & White (bw) - B (575 Images)
 ![Grid](grid.jpg)
 
 * [B.F. Blinn](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/B.F.%20Blinn.jpg)
@@ -397,6 +397,7 @@
 * [Brendan Schaub](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brendan%20Schaub.jpg)
 * [Brendan Wayne](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brendan%20Wayne.jpg)
 * [Brendon Burns](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brendon%20Burns.jpg)
+* [Brendon Small](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brendon%20Small.jpg)
 * [Brennan Elliott](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brennan%20Elliott.jpg)
 * [Brenock O'Connor](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brenock%20O%27Connor.jpg)
 * [Brent Briscoe](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/B/Images/Brent%20Briscoe.jpg)

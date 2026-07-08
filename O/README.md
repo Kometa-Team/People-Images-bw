@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - O (123 Images)
+# Kometa People Images - Black & White (bw) - O (124 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -85,6 +85,7 @@
 * [Ophelia Lovibond](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Ophelia%20Lovibond.jpg)
 * [Oprah Winfrey](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Oprah%20Winfrey.jpg)
 * [Oren Hawxhurst](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Oren%20Hawxhurst.jpg)
+* [Oren Koules](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Oren%20Koules.jpg)
 * [Oren Peli](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Oren%20Peli.jpg)
 * [Oren Uziel](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Oren%20Uziel.jpg)
 * [Ori Pfeffer](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/O/Images/Ori%20Pfeffer.jpg)

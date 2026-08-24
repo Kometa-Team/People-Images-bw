@@ -1,7 +1,5 @@
-# Kometa People Images - Black & White (bw) - Z (63 Images)
-![Grid](grid.jpg)
+# Kometa People Images - Black & White (bw) - Z (62 Images)
 
-* [ZZZFontProbeSample](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Z/Images/ZZZFontProbeSample.jpg)
 * [Zac Efron](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Z/Images/Zac%20Efron.jpg)
 * [Zach Baylin](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Z/Images/Zach%20Baylin.jpg)
 * [Zach Braff](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Z/Images/Zach%20Braff.jpg)

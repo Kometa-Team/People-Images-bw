@@ -1,5 +1,4 @@
 # Kometa People Images - Black & White (bw) - F (256 Images)
-![Grid](grid.jpg)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/F/Images/F.%20Murray%20Abraham.jpg)

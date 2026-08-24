@@ -1,5 +1,4 @@
 # Kometa People Images - Black & White (bw) - Q (12 Images)
-![Grid](grid.jpg)
 
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quentin%20Dupieux.jpg)

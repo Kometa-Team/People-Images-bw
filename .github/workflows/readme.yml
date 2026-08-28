@@ -6,7 +6,7 @@ on:
 
 concurrency:
   group: readme-${{ github.repository }}
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   Update-Readmes:
@@ -110,3 +110,4 @@ jobs:
           avatar_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/logo.png
           author: GitHub
           author_icon_url: https://raw.githubusercontent.com/Kometa-Team/Kometa/nightly/.github/git.png
+

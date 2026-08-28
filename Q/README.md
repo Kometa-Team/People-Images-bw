@@ -1,11 +1,10 @@
-# Kometa People Images - Black & White (bw) - Q (12 Images)
+# Kometa People Images - Black & White (bw) - Q (11 Images)
 
 * [Queen Latifah](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Queen%20Latifah.jpg)
 * [Quentin Dupieux](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quentin%20Dupieux.jpg)
 * [Quentin Tarantino Movies](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quentin%20Tarantino%20Movies.jpg)
 * [Quentin Tarantino](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quentin%20Tarantino.jpg)
 * [Questlove](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Questlove.jpg)
-* [Quim Gutiérrez](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quim%20Guti%C3%A9rrez.jpg)
 * [Quincy Jones](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quincy%20Jones.jpg)
 * [Quinn Duffy](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quinn%20Duffy.jpg)
 * [Quinta Brunson](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/Q/Images/Quinta%20Brunson.jpg)

@@ -1,4 +1,4 @@
-# Kometa People Images - Black & White (bw) - W (268 Images)
+# Kometa People Images - Black & White (bw) - W (269 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -227,6 +227,7 @@
 * [William-Christopher Stephens](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/William-Christopher%20Stephens.jpg)
 * [Willie Garson](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Willie%20Garson.jpg)
 * [Willie Nelson](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Willie%20Nelson.jpg)
+* [Willow Kean](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Willow%20Kean.jpg)
 * [Willow Shields](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Willow%20Shields.jpg)
 * [Wilmar Zimosa](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Wilmar%20Zimosa.jpg)
 * [Wilmer Valderrama](https://raw.githubusercontent.com/Kometa-Team/People-Images-bw/master/W/Images/Wilmer%20Valderrama.jpg)
